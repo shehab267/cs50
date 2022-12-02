@@ -21,3 +21,8 @@ Go ahead and take a peek at the solutions.
 
 - [Lab 1](/week%201/)
   - [Population Growth](/week%201/lab1/population/)
+  - [Hello](/week%201/lab1/hello/)
+
+- [Problem Set 1: C](/week%201/pset1/)
+  - [cash](/week%201/pset1/cash/)
+  - [mario](/week%201/pset1/mario/)

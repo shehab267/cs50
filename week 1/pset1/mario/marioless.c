@@ -4,20 +4,20 @@
 int main(void)
 {
     // get user input
-    int h;
+    int heigh;
     do
     {
-        h = get_int("Heigh: ");
+        heigh = get_int("Heigh: ");
 
     }
-    while (h < 1 || h > 8);
+    while (heigh < 1 || heigh > 8);
 
-    for (int i = 0; i < h; i++)
+    for (int row = 0; row < heigh; row++)
     {
         // print hashes
-        for (int r = 0; r < h; r++)
+        for (int column = 0; column < heigh; column++)
         {
-            if (i + r < h - 1)
+            if (row + column < heigh - 1)
             {
                 printf(" ");
             }
