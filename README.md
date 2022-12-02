@@ -35,3 +35,5 @@ Go ahead and take a peek at the solutions.
   - [readability](/week2/pset2/readability/)
   - [caesar](//week2/pset2/caesar/)
   - [substitution](/week2/pset2/substitution/)
+  
+- [Lab 3: Sort](/lab3)
