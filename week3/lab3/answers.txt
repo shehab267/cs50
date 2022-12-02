@@ -1,0 +1,14 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Omega(n)= 3.15s, and O(n^2)= 17s
+    Because on already sorted its way faster than Slection sort.
+
+sort2 uses: Merge Sort
+
+How do you know?: Omega(n log n)= 3.7s, and O(n log n)= 4s
+    because it's the fastest algorithm  in the revairsed value.
+
+sort3 uses: Selection Sort
+
+How do you know?: OmegaO(n^2) = O(n^2) = 9s
+    because it give the same value in the best and the worst senario.
