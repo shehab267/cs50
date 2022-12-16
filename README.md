@@ -37,5 +37,8 @@ Go ahead and take a peek at the solutions.
   - [substitution](/week2/pset2/substitution/)
 
 - [Lab 3: Sort](/week3/lab3/)
+- [Problem Set 3: Algorithms](/pset3)
   - [plurality](week3/pset3/plurality/)
   - [runoff](week3/pset3/runoff/)
+
+- [Lab 4: Volume :musical_note:](/lab4)

@@ -1,4 +1,4 @@
-## Pset 2: [Sort](https://cs50.harvard.edu/x/2021/labs/3/)
+## Lab 3: [Sort](https://cs50.harvard.edu/x/2021/labs/3/)
 
 Analyze three sorting programs to determine which algorithms they use.
 
