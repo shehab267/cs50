@@ -45,5 +45,10 @@ Go ahead and take a peek at the solutions.
 
 - [Lab 4: Volume :musical_note:](/lab4)
 - [Problem Set 4: Memory](/week4/pset4/)
+
   - [filter :framed_picture:](/week4/pset4/filter/):
   - [recover](/week4/pset4/recover/)
+
+- [Lab 5: Inheritance](/week5/lab5)
+- [Problem Set 5: Data Structures](/week5/pset5)
+  - [speller](/week5/pset5/speller)
