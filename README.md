@@ -32,13 +32,18 @@ Go ahead and take a peek at the solutions.
 
 - [Lab 2: Scrabble](/week2/scrabble/)
 - [Problem Set 2: Arrays](/week2/)
+
   - [readability](/week2/pset2/readability/)
   - [caesar](//week2/pset2/caesar/)
   - [substitution](/week2/pset2/substitution/)
 
 - [Lab 3: Sort](/week3/lab3/)
 - [Problem Set 3: Algorithms](/pset3)
+
   - [plurality](week3/pset3/plurality/)
   - [runoff](week3/pset3/runoff/)
 
 - [Lab 4: Volume :musical_note:](/lab4)
+- [Problem Set 4: Memory](/week4/pset4/)
+  - [filter :framed_picture:](/week4/pset4/filter/):
+  - [recover](/week4/pset4/recover/)
